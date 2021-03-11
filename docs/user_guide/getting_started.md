@@ -66,9 +66,6 @@ The following information is based on [this GBATemp thread](https://gbatemp.net/
 ### Version Table
 
 !!! note "Note"
-    Nereba and Caffeine how-to guides are currently a Work-In-Progress (WIP)!
-
-!!! note "Note"
     While the "New" Switch (HAC-001-01)'s earliest possible firmware is 7.0.1, it is **not** vulnerable to *déjà vu*, the exploit used by Nereba and Caffeine, because of hardware differences from the "Old" Switch (HAC-001).
 
 &nbsp;
