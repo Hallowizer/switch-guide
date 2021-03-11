@@ -61,4 +61,4 @@ This is the only part that must be done every boot.
 
 #### [Continue to partitioning the SD card (emuMMC CFW) <i class="fa fa-arrow-circle-right fa-lg"></i>](../emummc/partitioning_sd.md)
 
-#### [Continue to SD preparations (sysNAND CFW) (**Not Recommended**) <i class="fa fa-arrow-circle-right fa-lg"></i>](../sysnand/sd_preparation.md)
+#### [Continue to SD preparations (sysNAND CFW) (**Not Recommended**) <i class="fa fa-arrow-circle-right fa-lg"></i>](../sysnand/making_essential_backups.md)
