@@ -16,16 +16,17 @@ What you need:
 
 ### Instructions
 
-1. Inject the TegraExplorer payload with your 64GB (or larger) SD card inserted into your Switch.
-	- If you forgot how to do this, re-read the [sending payload](sending_payload.md) section of the guide.
-2. Navigate to `Partition the sd` and press the A button to enter the SD format menu.
+1. Boot Hekate.
+2. Tap "Payloads"
+3. Select the TegraExplorer payload.
+4. Navigate to `Partition the sd` and press the A button to enter the SD format menu.
 	- If you can't find the Partition the sd option, make sure that your SD card is inserted and select Mount SD.
-3. Navigate to `Fat32 + EmuMMC` and press the A button to confirm.
-4. Read the warning, and select Yes to partition & format your SD card.
+5. Navigate to `Fat32 + EmuMMC` and press the A button to confirm.
+6. Read the warning, and select Yes to partition & format your SD card.
 	- Note: This will delete all data on your SD card. Make sure you backed up your Nintendo folder!
 	- This should not take more than a few seconds.
-5. Press any button to return to the main menu.
-6. Navigate to `Reboot to RCM` and press the A button to reboot to RCM. It's now safe to eject your sd card for the next part of the guide.
+7. Press any button to return to the main menu.
+8. Navigate to `Reboot to atmosphere/reboot_payload.bin` and press the A button to reboot to Hekate. It's now safe to eject your sd card for the next part of the guide, assuming you don't do anything in Hekate.
 
 !!! warning "Windows complaining about an unreadable drive"
     If you get the issue that Windows says the SD card is unreadable and wants to format it, do not format! This is likely your emuMMC partition.
